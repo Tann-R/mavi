@@ -36,7 +36,7 @@ let demographics = '<h1>Virtue - Loyalty - Acceptance</h1>' +
     '<table>' +
     '<tr><td><b>Nickname(s) / AKA</b></td><td><b>: </b>tba</td></tr>' +
     '<tr><td><b>Age</b></td><td><b>: </b>tba</td></tr>' +
-    '<tr><td><b>Sex / Gender</b></td><td><b>: </b>tba / tba (pronouns: tba)</td></tr>' +
+    '<tr><td><b>Sex / Gender</b></td><td><b>: </b>male / man (pronouns: he/him)</td></tr>' +
     '<tr><td><b>Orientation</b></td><td><b>: </b>tba' +
     '<tr><td><b>Relationship Status</b></td><td><b>: </b>tba' +
     '<tr><td>&nbsp;</td><td>&nbsp;</td></tr>' +
