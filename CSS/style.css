@@ -32,7 +32,7 @@
       var(--dkgry) -1px 1px 1px,
       var(--dkgry) -1px 0px 1px,
       var(--dkgry) -1px -1px 1px;
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-family: 'Nova Cut', cursive;
     border-top: solid 2px var(--acc3);
     border-left: solid 2px var(--acc3);
@@ -40,7 +40,6 @@
     margin-left: 2px;
     background: var(--acc1);
     margin-bottom:0px;
-    font-size: .9em;
   }
   .nav-inactive {
     float: right;
@@ -60,7 +59,7 @@
       var(--dkgry) -1px 1px 1px,
       var(--dkgry) -1px 0px 1px,
       var(--dkgry) -1px -1px 1px;
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-family: 'Lemonada', cursive;
     border-top: solid 2px var(--acc3);
     border-left: solid 2px var(--acc3);
@@ -69,13 +68,11 @@
     margin-left: 2px;
     background: var(--acc2);
     margin-bottom:0px;
-    font-size: .9em;
   }
   .nav-inactive:hover {
     background: var(--acc3);
     border-top: solid 2px var(--wht);
     border-left: solid 2px var(--wht);
-    font-size: .9em;
   }
   .header {
     width:100%;
